@@ -121,7 +121,7 @@ dependencies {
 
     // storage
     compile "org.springframework.boot:spring-boot-starter-jdbc"
-    compile 'org.postgresql:postgresql:42.2.5'
+    compile 'org.postgresql:postgresql:42.2.13'
 
     compile 'org.springframework.cloud:spring-cloud-starter-hystrix:1.4.5.RELEASE'
 
